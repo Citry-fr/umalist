@@ -4,7 +4,7 @@
     v-model="tab"
     align-tabs="center"
     bg-color="grey-darken-3"
-    class="w-50 d-flex mx-auto rounded-b-lg"
+    class="w-75 d-flex mx-auto rounded-b-lg"
     color="deep-purple"
     grow="true"
   >
@@ -17,7 +17,7 @@
     </v-tab>
   </v-tabs>
 
-  <v-tabs-window v-model="tab" class=" w-50 mx-auto mt-4">
+  <v-tabs-window v-model="tab" class=" w-75 mx-auto mt-4">
     <v-tabs-window-item reverse-transition="tabs-window-item-reverse-transition" transition="tabs-window-item-transition" value="one">
       <AddUmaComponent />
     </v-tabs-window-item>
