@@ -5,7 +5,7 @@
     align-tabs="center"
     bg-color="grey-darken-3"
     class="w-75 d-flex mx-auto rounded-b-lg"
-    color="deep-purple"
+    color="primary"
     grow="true"
   >
     <v-tab value="one">

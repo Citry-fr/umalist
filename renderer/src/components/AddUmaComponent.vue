@@ -4,10 +4,11 @@
       <v-card-title class="text-h5">
         Add Uma Musume
       </v-card-title>
+      <v-divider class="divider" opacity=".5" thickness="1" />
       <v-card-subtitle class="text-h6">
-        Select Uma
+        Uma
       </v-card-subtitle>
-      <div>uma dropdown</div>
+      <UmaSelectComponent />
       <v-divider class="divider" opacity=".5" thickness="1" />
       <v-card-subtitle class="text-h6">
         Stats
@@ -31,6 +32,7 @@
 
 <script setup>
   import { ref } from 'vue'
+  import UmaSelectComponent from './UmaSelectComponent.vue'
 
   const stats = ref([
     {
