@@ -6,7 +6,7 @@ const createWindow = () => {
 		height: 800,
 	});
 
-	win.removeMenu();
+	//win.removeMenu();
 	win.setMinimumSize(1200, 800);
 	win.loadURL("http://localhost:3000");
 }

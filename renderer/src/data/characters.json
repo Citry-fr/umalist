@@ -1,31 +1,280 @@
-{
-  "Agnes Tachyon": "agnes_tachyon.webp",
-  "Air Groove": "air_groove.webp",
-  "Biwa Hayahide": "biwa_hayahide.webp",
-  "Curren Chan": "curren_chan.webp",
-  "Daiwa Scarlet": "daiwa_scarlet.webp",
-  "El Condor Pasa": "el_condor_pasa.webp",
-  "Gold Ship": "gold_ship.webp",
-  "Grass Wonder": "grass_wonder.webp",
-  "Haru Urara": "haru_urara.webp",
-  "King Halo": "king_halo.webp",
-  "Maruzensky": "maruzensky.webp",
-  "Matikanefukukitaru": "matikanefukukitaru.webp",
-  "Mayano Top Gun": "mayano_top_gun.webp",
-  "Mejiro Mcqueen": "mejiro_mcqueen.webp",
-  "Mejiro Ryan": "mejiro_ryan.webp",
-  "Mihono Bourbon": "mihono_bourbon.webp",
-  "Nice Nature": "nice_nature.webp",
-  "Oguri Cap": "oguri_cap.webp",
-  "Rice Shower": "rice_shower.webp",
-  "Sakura Bakushin O": "sakura_bakushin_o.webp",
-  "Silence Suzuka": "silence_suzuka.webp",
-  "Special Week": "special_week.webp",
-  "Super Creek": "super_creek.webp",
-  "Symboli Rudolf": "symboli_rudolf.webp",
-  "Taiki Shuttle": "taiki_shuttle.webp",
-  "Tm Opera O": "tm_opera_o.webp",
-  "Tokai Teio": "tokai_teio.webp",
-  "Vodka": "vodka.webp",
-  "Winning Ticket": "winning_ticket.webp"
-}
+[
+  {
+    "name": "Agnes Tachyon",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1032_103201.webp"
+      }
+    ]
+  },
+  {
+    "name": "Air Groove",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1018_101801.webp"
+      }
+    ]
+  },
+  {
+    "name": "Biwa Hayahide",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1023_102301.webp"
+      }
+    ]
+  },
+  {
+    "name": "Curren Chan",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1038_103801.webp"
+      }
+    ]
+  },
+  {
+    "name": "Daiwa Scarlet",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1009_100901.webp"
+      }
+    ]
+  },
+  {
+    "name": "El Condor Pasa",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1014_101401.webp"
+      }
+    ]
+  },
+  {
+    "name": "Gold Ship",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1007_100701.webp"
+      }
+    ]
+  },
+  {
+    "name": "Grass Wonder",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1011_101101.webp"
+      }
+    ]
+  },
+  {
+    "name": "Haru Urara",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1052_105201.webp"
+      }
+    ]
+  },
+  {
+    "name": "King Halo",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1061_106101.webp"
+      }
+    ]
+  },
+  {
+    "name": "Maruzensky",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1004_100401.webp"
+      }
+    ]
+  },
+  {
+    "name": "Matikanefukukitaru",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1056_105601.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mayano Top Gun",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1024_102401.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mejiro McQueen",
+    "variants": [
+      {
+        "label": "Anime Collab",
+        "image": "chara_stand_1013_101302.webp"
+      },
+      {
+        "label": "Default",
+        "image": "chara_stand_1013_101301.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Ryan",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1027_102701.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mihono Bourbon",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1026_102601.webp"
+      }
+    ]
+  },
+  {
+    "name": "Narita Taishin",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1050_105001.webp"
+      }
+    ]
+  },
+  {
+    "name": "Nice Nature",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1060_106001.webp"
+      }
+    ]
+  },
+  {
+    "name": "Oguri Cap",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1006_100601.webp"
+      }
+    ]
+  },
+  {
+    "name": "Rice Shower",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1030_103001.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sakura Bakushin O",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1041_104101.webp"
+      }
+    ]
+  },
+  {
+    "name": "Silence Suzuka",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1002_100201.webp"
+      }
+    ]
+  },
+  {
+    "name": "Special Week",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1001_100101.webp"
+      }
+    ]
+  },
+  {
+    "name": "Super Creek",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1045_104501.webp"
+      }
+    ]
+  },
+  {
+    "name": "Symboli Rudolf",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1017_101701.webp"
+      }
+    ]
+  },
+  {
+    "name": "Taiki Shuttle",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1010_101001.webp"
+      }
+    ]
+  },
+  {
+    "name": "TM Opera O",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1015_101501.webp"
+      }
+    ]
+  },
+  {
+    "name": "Tokai Teio",
+    "variants": [
+      {
+        "label": "Anime Collab",
+        "image": "chara_stand_1003_100302.webp"
+      },
+      {
+        "label": "Default",
+        "image": "chara_stand_1003_100301.webp"
+      }
+    ]
+  },
+  {
+    "name": "Vodka",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1008_100801.webp"
+      }
+    ]
+  },
+  {
+    "name": "Winning Ticket",
+    "variants": [
+      {
+        "label": "Default",
+        "image": "chara_stand_1035_103501.webp"
+      }
+    ]
+  }
+]

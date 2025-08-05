@@ -6,7 +6,7 @@
     bg-color="grey-darken-3"
     class="w-75 d-flex mx-auto rounded-b-lg"
     color="primary"
-    grow="true"
+    grow
   >
     <v-tab value="one">
       Add Uma
